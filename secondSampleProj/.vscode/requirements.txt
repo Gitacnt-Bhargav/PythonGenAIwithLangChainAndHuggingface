@@ -1,4 +1,10 @@
 ipykernel
 numpy
-
-pip install -r requirements.txt -> this will download all packages
+# pip install -r requirements.txt -> this will download all packages
+pandas
+matplotlib
+searborn
+flask
+memory_profiler
+streamlit
+scikit-learn
