@@ -1,0 +1,29 @@
+
+
+1 - Cleaning the input - Text preprocessing - start with basic things - Techniques: Tokenization (converting para to sentence, sentence to words etc), Lemmatization, Stemming; introduce Stop words
+
+2 - Input text to Converting into Vectors - Text preprocessing 2 - Techniques: Bag Of Woods (BOW), TFIDF, Unigrams, Bigrams
+( Here, Vector should be able to make sure that the context of the statement should be able to get captured )
+
+3 - Input text to Vectors - Text Preprocessing 3 - Advanced techniques: Word2Vec, AvgWord2Vec
+
+4 - Neural Network - RNN, LSTM, GRU, GRU RNN - Deep learning techniques - used for text related use cases - Spam classification, text summarization etc.
+
+5 - Word Embedding - Text to vector - Text Preprocessing - Word embeddings
+
+6 - Transformer
+
+7 - BERT
+
+
+Machine Learning - Above steps 1, 2, 3 - Using libraries NLTK, Spacy - these libraries help us to perform all tasks given on those steps 1, 2, 3
+
+Deep Learning - Steps 4 to 7 - Using libraries TensorFlow, PyTorch
+
+NLP eg.:
+> Spelling suggestions and corrections in Gmail
+> Translations
+> Automatic reply suggestions
+
+NLP applications: Hugging Face
+

@@ -1,0 +1,41 @@
+Tokenization
+
+When we get a paragraph, a paragraph is called as Corpus.
+Each sentence is called a Document.
+Vocabulary - All unique words present in the paragraph
+Words - All words present in Corpus is a word
+
+Tokenization:
+
+Imp step - part of any use case wrt NLP
+
+This entire para is corpus
+"My Name is Krish and i have a interest in teaching ML, NLP and Deep learning. I am also a Youtuber."
+
+Tokenization is process, where we take a Paragraph or Sentences and convert into tokens. Output would be sentences or documents.
+When Tokenization is done on a Paragraph, every sentence would be a token
+When Tokenization is done on Sentence, every word would be a token
+
+Ouput of above Paragraph:
+
+Sentence1/Document1 - My Name is Krish and i have a interest in teaching ML, NLP and Deep learning
+Sentence2/Document2 - I am also a Youtuber
+
+Now doing Tokenization again, will convert Sentences to Words
+
+Words - My, Name, is, Krish,...... learning.... Youtuber
+
+*****************************
+sentence: I like to drink Apple Juice. My friend like Mango Juice.
+
+ -> Tokenization -> 
+
+ Sentence1 - I like to drink apple Juice
+ Sentence2 - My friend like Mango Juice
+
+ Here there are 11 words and 9 unique words [ 2 repitions - like and Juice]
+
+ These 9 unique words - Vocabulary
+
+
+
