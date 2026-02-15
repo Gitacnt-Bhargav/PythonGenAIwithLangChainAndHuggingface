@@ -1,0 +1,28 @@
+
+
+Where does Stemming, Lemmatization, Stop words etc fit in an NLP project
+
+When we have data set, firstly we would do Text preprocessing. 
+
+Step 1 - DataSet
+
+Step 2
+In Text preprocessing Part 1 (Cleaning process):
+1. Tokenization 
+2. Lowering the Case of words - this is to make same word in 2 diff cases as same. eg. The and the are same
+3. Regular Expression - can be removing special character etc.
+
+Step 3
+Text preprocessing Part 2 (Cleaning text):
+1. Stemming
+2. Lemmatization
+3. Stop words
+
+Step 4
+Coverting text to Vectors (numerical represenation of certain text/data):
+1. One Hot encoded ( now not mostly used )
+2. Bag of Words (BOW) - Imp
+3. TF - IDF
+4. Word2Vec
+5. AvgWord2Vec
+
