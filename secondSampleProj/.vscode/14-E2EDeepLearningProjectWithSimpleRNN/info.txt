@@ -1,0 +1,6 @@
+For E2E Deep learning Project Using Simple RNN, we would be using Data set - IMDB Dataset [Movie Reviews Dataset]
+
+        Text                o/p
+        Reviews             Positive/Negative => Simple RNN => Prediction => Training => Deployment
+
+Use Google Colab
