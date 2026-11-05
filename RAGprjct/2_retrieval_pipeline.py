@@ -45,7 +45,7 @@ for i, doc in enumerate(relevant_docs, 1):
 
 #1. "What was NVIDIA's first graphics accelerator called"
 #2. "Which company did NVIDIA acquire to enter the mobile processor market?"
-#3. "What was the Microsoft's first software product?"
+#3. "What was the Microsoft's first hardware product?"
 #4. "How much did Microsoft pay to acquire Github?"
 #5. "In which year did Tesla began production of Roadster?"
 #6. "Who succeeded Ze'ev Drori as CEO in October 2008"
